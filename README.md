@@ -1,3 +1,4 @@
 # git_test
-my first GitHun repo!
-hello sathwik
+my first GitHub repo!
+hii my name is sathwik i am learning html,css and python 
+
